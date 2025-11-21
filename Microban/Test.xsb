@@ -1,0 +1,24 @@
+; Microban
+
+; Copyright: David W Skinner
+; E-Mail: sasquatch@bentonrea.com
+; Web Site: http://users.bentonrea.com/~sasquatch/sokoban/
+;
+; Microban (155 puzzles, revised April, 2000) This is a good set for beginners and
+; children. Most of the puzzles are small and illustrate a particular concept.
+; More experienced players should also find them interesting, since they are as
+; different from each other as I could make them given their size. Sokoholics
+; could perhaps time themselves on completing the whole set. This set also
+; contains puzzles which I thought were interesting but too easy to include in my
+; regular sets.
+
+  #####
+###   #
+#.@$  #
+### $.#
+#.##$ #
+# # . ##
+#$ *$$.#
+#   .  #
+########
+; 1
