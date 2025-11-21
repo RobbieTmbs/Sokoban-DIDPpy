@@ -20,7 +20,7 @@ def convert_sokoban_to_array(level_lines):
     for y, line in enumerate(level_lines):
         row = []
         for x, char in enumerate(line.rstrip().ljust(max_width)):
-            row.append(char_to_tile.get(char, 2))  # default to 2
+            row.append(char_to_tile.get(char, 2))  # default to 2/empty
 
             if char in ('@', '+'):
                 player_pos = (x, y)

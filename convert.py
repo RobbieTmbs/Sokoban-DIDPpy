@@ -1,3 +1,5 @@
+# Seperate .xsb file into level screens
+
 def split_xsb_levels(input_path):
     with open(input_path, 'r') as f:
         lines = f.readlines()
